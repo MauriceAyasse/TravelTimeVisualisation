@@ -16,3 +16,4 @@ and for the Graphs i used MPAndroidChart ( https://github.com/PhilJay/MPAndroidC
 
 ## License
 See LICENSE.md
+test
